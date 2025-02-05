@@ -15,5 +15,15 @@ Clone the repository using the following command:
 ```bash
 git clone https://github.com/deltaparticle/weed_detection_46/tree/main
 ```
+### 2. Download the dataset
 
+Link for the dataset: https://www.kaggle.com/datasets/sumitpr96/weed-detection-dataset
+
+### 3. Change file path
+
+Change the file paths in the second cell of the ipynb file.
+
+### 4. Run each cell
+
+or click on run all
 
